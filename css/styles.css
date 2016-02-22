@@ -1,0 +1,76 @@
+
+
+
+@font-face{
+	font-family: FFF-Tusj;
+	src: url("../Fonts/FFF-Tusj/FFF_Tusj.ttf");
+}
+
+@font-face{
+	font-family: Amateur;
+	src: url("../Fonts/amateur/Amateur Dirty.ttf");
+}
+
+
+
+
+
+
+
+
+body {
+	background-image: url("../Pictures/BlackHulk.jpg");
+}
+
+
+h1{
+	font-family: Amateur, Arial, Helvetica, cursive;
+	font-size: 4em;
+	color: purple
+}
+
+h2{
+	font-family: 'Ceviche One', cursive;
+	font-size: 2em;
+	color: green;
+}
+
+p{
+	font-family: 'Ceviche One', cursive;
+	font-size: 2em;
+	color: white;
+
+
+}
+
+a {
+	color: green;
+}
+
+a:hover {
+	color: red;
+}
+
+
+.transparent_b{
+		background: rgba(102,0,255,.5);
+		margin-left: 20%;
+		padding: 2%;
+		border: solid 10px black;
+
+
+.floatRight{
+	float: right;
+}
+
+.floatLeft{
+	float: left;
+}
+
+.clearIt{
+	clear: both;
+}
+
+
+
+
